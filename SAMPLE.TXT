@@ -1,0 +1,16 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,.-':
+one two three four five six seven eight nine ten eleven twelve
+One Two Three Four Five Six ONE TWO THREE FOUR FIVE SIX
+
+Capital and descender: Again Ajar Spoon Squid Sydney
+
+Words from Wikipedia article on pangrams:
+  bad big black boxing daft dozen dwarf five for fox glib grabs
+  how jackdaws jigs jived jocks judge jugs jump liquor love my
+  nymph of pack quartz quickly quiz sphinx the to vexingly vow
+  waltz with wizards zebras
+
+Ligatures:
+  FaFeFoFrFuFy fafcfdfeffgfjfkfmfnfofpfqfrfsftfufvfwfxfyfz
+  FjPjTjYj ajbjdjejfjhjijjkjljmjnjojpjrjsjtjuj
+  F, F. F- f, f. f- r, r. r-
