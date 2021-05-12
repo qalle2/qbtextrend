@@ -1,16 +1,17 @@
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,.-':
-one two three four five six seven eight nine ten eleven twelve
-One Two Three Four Five Six ONE TWO THREE FOUR FIVE SIX
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ,.-':!?
 
-Capital and descender: Again Ajar Spoon Squid Sydney
+Cwm fjord bank glyphs vext quiz.
+Glib jocks quiz nymph to vex dwarf.
+How vexingly quick daft zebras jump!
+Jackdaws love my big sphinx of quartz.
+Jived fox nymph grabs quick waltz.
+Mr Jock, TV quiz PhD, bags few lynx.
+Pack my box with five dozen liquor jugs.
+Quickly Nez Ford, what's JPG BMX V?
+Sphinx of black quartz, judge my vow.
+The five boxing wizards jump quickly.
+The quick brown fox jumps over a lazy dog.
+Waltz, bad nymph, for quick jigs vex.
 
-Words from Wikipedia article on pangrams:
-  bad big black boxing daft dozen dwarf five for fox glib grabs
-  how jackdaws jigs jived jocks judge jugs jump liquor love my
-  nymph of pack quartz quickly quiz sphinx the to vexingly vow
-  waltz with wizards zebras
-
-Ligatures:
-  FaFeFoFrFuFy fafcfdfeffgfjfkfmfnfofpfqfrfsftfufvfwfxfyfz
-  FjPjTjYj ajbjdjejfjhjijjkjljmjnjojpjrjsjtjuj
-  F, F. F- f, f. f- r, r. r-
+The Quick Brown Fox Jumps Over A Lazy Dog.
+THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.
